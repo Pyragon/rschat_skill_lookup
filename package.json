@@ -3,9 +3,7 @@
     "version": "1.0.0",
     "description": "Skill Lookup module for RSChatAPI",
     "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
+    "scripts": {},
     "repository": {
         "type": "git",
         "url": "git+https://github.com/Pyragon/rschat_skill_lookup.git"
@@ -15,5 +13,10 @@
     "bugs": {
         "url": "https://github.com/Pyragon/rschat_skill_lookup/issues"
     },
-    "homepage": "https://github.com/Pyragon/rschat_skill_lookup#readme"
+    "homepage": "https://github.com/Pyragon/rschat_skill_lookup#readme",
+    "dependencies": {
+        "numeral": "^2.0.6",
+        "request": "^2.88.0",
+        "runescape-api": "^1.0.9"
+    }
 }
