@@ -1,0 +1,19 @@
+{
+    "name": "skill_lookup",
+    "version": "1.0.0",
+    "description": "Skill Lookup module for RSChatAPI",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Pyragon/rschat_skill_lookup.git"
+    },
+    "author": "Pyragon",
+    "license": "gnu",
+    "bugs": {
+        "url": "https://github.com/Pyragon/rschat_skill_lookup/issues"
+    },
+    "homepage": "https://github.com/Pyragon/rschat_skill_lookup#readme"
+}
